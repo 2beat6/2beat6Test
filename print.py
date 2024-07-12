@@ -1,1 +1,2 @@
 print ("hihi")
+print ("HOHOHO")
