@@ -1,0 +1,3961 @@
+{
+  "BYSDTEDFGOR43UEPHNXUPMFT": {
+    "item_name": "Highball 1oz",
+    "location_ids": [
+      "L19Y65Y519C0Y",
+      "L293PJM41KPGG",
+      "L362869NT855W",
+      "L4F4S5K5XZMGA",
+      "L536E9GAWKGQ1",
+      "L5BF321ERVF0A",
+      "L6HFGTPTDF2H8",
+      "L6TPXBT7YFQPG",
+      "L6YR34NA2G9FW",
+      "L7MMHQX4ZVWPH",
+      "L7XZ7D3M4FQ6S",
+      "LA0ZKACZ4QBS3",
+      "LAACJHC2M4Z86",
+      "LASTB29XNC1HN",
+      "LAT7NS62SQ310",
+      "LCJWBJCRERTQB",
+      "LDBJTSHR02JMX",
+      "LE5TQA7K9NRK3",
+      "LEE8EVN5XC9E5",
+      "LEJGXXCTR2H4K",
+      "LF6RD8JSSRA73",
+      "LFGCJX38NNHQX",
+      "LGSB45G5FN3JH",
+      "LHHXT6AWEYSCJ",
+      "LHPPM45V683B2",
+      "LJAHC088R59YM",
+      "LJPWJTCTQXFDA",
+      "LKSX94G1S3DRH",
+      "LMB6G6PJF5C03",
+      "LMRZSWAVQ242S",
+      "LNH8KDSJVJDNJ",
+      "LPAHK469SBA7J",
+      "LPCDMXB707N1H",
+      "LPVAQB3YMDSW8",
+      "LR17VYM2N0SME",
+      "LW93JWX3WBM5Q",
+      "LZ0WGDBCNS52A"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "I3OPIPMX6LGKYBNZW4LZ2R6D"
+  },
+  "EJXKUA4DYFXGLFWKBAFW4OZW": {
+    "item_name": "Top Shelf 1oz",
+    "location_ids": [
+      "L19Y65Y519C0Y",
+      "L293PJM41KPGG",
+      "L4F4S5K5XZMGA",
+      "L536E9GAWKGQ1",
+      "L5BF321ERVF0A",
+      "L6TPXBT7YFQPG",
+      "L6YR34NA2G9FW",
+      "L7MMHQX4ZVWPH",
+      "L7XZ7D3M4FQ6S",
+      "LA0ZKACZ4QBS3",
+      "LAACJHC2M4Z86",
+      "LASTB29XNC1HN",
+      "LAT7NS62SQ310",
+      "LCJWBJCRERTQB",
+      "LDBJTSHR02JMX",
+      "LE5TQA7K9NRK3",
+      "LEE8EVN5XC9E5",
+      "LEJGXXCTR2H4K",
+      "LF6RD8JSSRA73",
+      "LFGCJX38NNHQX",
+      "LGSB45G5FN3JH",
+      "LHHXT6AWEYSCJ",
+      "LHPPM45V683B2",
+      "LJAHC088R59YM",
+      "LJPWJTCTQXFDA",
+      "LKSX94G1S3DRH",
+      "LMB6G6PJF5C03",
+      "LMRZSWAVQ242S",
+      "LNH8KDSJVJDNJ",
+      "LPAHK469SBA7J",
+      "LPCDMXB707N1H",
+      "LPVAQB3YMDSW8",
+      "LR17VYM2N0SME",
+      "LW93JWX3WBM5Q",
+      "LZ0WGDBCNS52A"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "3LS3SU6DFEAGATYQJEP5FEDF"
+  },
+  "IVDRE2DBV2YAERORNJS2VGKS": {
+    "item_name": "Cocktail",
+    "location_ids": [
+      "L19Y65Y519C0Y",
+      "L293PJM41KPGG",
+      "L4F4S5K5XZMGA",
+      "L5BF321ERVF0A",
+      "L6HFGTPTDF2H8",
+      "L6TPXBT7YFQPG",
+      "L6YR34NA2G9FW",
+      "L7MMHQX4ZVWPH",
+      "L7XZ7D3M4FQ6S",
+      "LAACJHC2M4Z86",
+      "LASTB29XNC1HN",
+      "LAT7NS62SQ310",
+      "LCJWBJCRERTQB",
+      "LDBJTSHR02JMX",
+      "LE5TQA7K9NRK3",
+      "LEE8EVN5XC9E5",
+      "LF6RD8JSSRA73",
+      "LFGCJX38NNHQX",
+      "LGSB45G5FN3JH",
+      "LHHXT6AWEYSCJ",
+      "LHPPM45V683B2",
+      "LJAHC088R59YM",
+      "LJPWJTCTQXFDA",
+      "LKSX94G1S3DRH",
+      "LMB6G6PJF5C03",
+      "LMRZSWAVQ242S",
+      "LNH8KDSJVJDNJ",
+      "LPAHK469SBA7J",
+      "LPCDMXB707N1H",
+      "LPVAQB3YMDSW8",
+      "LR17VYM2N0SME",
+      "LW93JWX3WBM5Q",
+      "LZ0WGDBCNS52A"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "WHREMWTKZMQGZX34SIVKXK5F"
+  },
+  "FCWDSVQJRTQZQW53YXBH53JM": {
+    "item_name": "Can 355ml",
+    "location_ids": [
+      "L19Y65Y519C0Y",
+      "L293PJM41KPGG",
+      "L3EXMY6VSXPSN",
+      "L41RME03ZXMQ5",
+      "L4F4S5K5XZMGA",
+      "L536E9GAWKGQ1",
+      "L5BF321ERVF0A",
+      "L6TPXBT7YFQPG",
+      "L6YR34NA2G9FW",
+      "L6ZEKKXTZQ7FA",
+      "L7MMHQX4ZVWPH",
+      "L7XZ7D3M4FQ6S",
+      "L8RKNSSRZ6P2Q",
+      "L8X3TD6BVCJRB",
+      "LA0ZKACZ4QBS3",
+      "LAACJHC2M4Z86",
+      "LASTB29XNC1HN",
+      "LAT7NS62SQ310",
+      "LCF96CQFXWQG8",
+      "LCJWBJCRERTQB",
+      "LD8PPCTW4XBA7",
+      "LDBJTSHR02JMX",
+      "LE5TQA7K9NRK3",
+      "LEE8EVN5XC9E5",
+      "LEJGXXCTR2H4K",
+      "LF6RD8JSSRA73",
+      "LFGCJX38NNHQX",
+      "LG2N8TDS8T05E",
+      "LGSB45G5FN3JH",
+      "LHHXT6AWEYSCJ",
+      "LHPPM45V683B2",
+      "LJAHC088R59YM",
+      "LJPWJTCTQXFDA",
+      "LKABG2ZNRRH6D",
+      "LKSX94G1S3DRH",
+      "LMB6G6PJF5C03",
+      "LMP1HZ983Q51C",
+      "LMQFY4ECZFQSD",
+      "LMRZSWAVQ242S",
+      "LNH8KDSJVJDNJ",
+      "LPAHK469SBA7J",
+      "LPCDMXB707N1H",
+      "LPVAQB3YMDSW8",
+      "LR17VYM2N0SME",
+      "LRW8A9E97KCR6",
+      "LVR45PN1TT4ZA",
+      "LW69Q1V1JSVF0",
+      "LW93JWX3WBM5Q",
+      "LWSNV7968F58V",
+      "LZ0WGDBCNS52A",
+      "LZN47RJFCD29B"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "3TAB74ZBL3LFSZBDRSDF7MUJ"
+  },
+  "7VKV6LREGKITIBDWZVSTMX2K": {
+    "item_name": "GL Wine 5oz",
+    "location_ids": [
+      "L19Y65Y519C0Y",
+      "L293PJM41KPGG",
+      "L4F4S5K5XZMGA",
+      "L536E9GAWKGQ1",
+      "L5BF321ERVF0A",
+      "L6HFGTPTDF2H8",
+      "L6TPXBT7YFQPG",
+      "L6YR34NA2G9FW",
+      "L7MMHQX4ZVWPH",
+      "L7XZ7D3M4FQ6S",
+      "LA0ZKACZ4QBS3",
+      "LAACJHC2M4Z86",
+      "LASTB29XNC1HN",
+      "LAT7NS62SQ310",
+      "LCJWBJCRERTQB",
+      "LDBJTSHR02JMX",
+      "LE5TQA7K9NRK3",
+      "LEE8EVN5XC9E5",
+      "LEJGXXCTR2H4K",
+      "LF6RD8JSSRA73",
+      "LFGCJX38NNHQX",
+      "LGSB45G5FN3JH",
+      "LHHXT6AWEYSCJ",
+      "LHPPM45V683B2",
+      "LJAHC088R59YM",
+      "LJPWJTCTQXFDA",
+      "LKSX94G1S3DRH",
+      "LMB6G6PJF5C03",
+      "LMRZSWAVQ242S",
+      "LNH8KDSJVJDNJ",
+      "LPAHK469SBA7J",
+      "LPCDMXB707N1H",
+      "LPVAQB3YMDSW8",
+      "LR17VYM2N0SME",
+      "LW93JWX3WBM5Q",
+      "LZ0WGDBCNS52A"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "QT6I7WEITBC5EQ7XIXDAOUUD"
+  },
+  "CFLO37SOF7CH7TJI646V4P46": {
+    "item_name": "Red Bull / Mocktail",
+    "location_ids": [
+      "L19Y65Y519C0Y",
+      "L293PJM41KPGG",
+      "L4F4S5K5XZMGA",
+      "L536E9GAWKGQ1",
+      "L5BF321ERVF0A",
+      "L6HFGTPTDF2H8",
+      "L6TPXBT7YFQPG",
+      "L6YR34NA2G9FW",
+      "L7MMHQX4ZVWPH",
+      "L7XZ7D3M4FQ6S",
+      "LA0ZKACZ4QBS3",
+      "LAACJHC2M4Z86",
+      "LASTB29XNC1HN",
+      "LAT7NS62SQ310",
+      "LCJWBJCRERTQB",
+      "LDBJTSHR02JMX",
+      "LE5TQA7K9NRK3",
+      "LEE8EVN5XC9E5",
+      "LEJGXXCTR2H4K",
+      "LF6RD8JSSRA73",
+      "LFGCJX38NNHQX",
+      "LGSB45G5FN3JH",
+      "LHHXT6AWEYSCJ",
+      "LHPPM45V683B2",
+      "LJAHC088R59YM",
+      "LJPWJTCTQXFDA",
+      "LKSX94G1S3DRH",
+      "LMB6G6PJF5C03",
+      "LMRZSWAVQ242S",
+      "LNH8KDSJVJDNJ",
+      "LPAHK469SBA7J",
+      "LPCDMXB707N1H",
+      "LPVAQB3YMDSW8",
+      "LR17VYM2N0SME",
+      "LW93JWX3WBM5Q",
+      "LZ0WGDBCNS52A"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "SRH3GNMDNRTML4D72LHOOORU"
+  },
+  "YCD3UCNL3UK6CJTWIIDGZZ64": {
+    "item_name": "Btl Water",
+    "location_ids": [
+      "L19Y65Y519C0Y",
+      "L293PJM41KPGG",
+      "L3EXMY6VSXPSN",
+      "L41RME03ZXMQ5",
+      "L4F4S5K5XZMGA",
+      "L536E9GAWKGQ1",
+      "L5BF321ERVF0A",
+      "L6TPXBT7YFQPG",
+      "L6YR34NA2G9FW",
+      "L6ZEKKXTZQ7FA",
+      "L7MMHQX4ZVWPH",
+      "L7XZ7D3M4FQ6S",
+      "L8RKNSSRZ6P2Q",
+      "L8X3TD6BVCJRB",
+      "LA0ZKACZ4QBS3",
+      "LAACJHC2M4Z86",
+      "LASTB29XNC1HN",
+      "LAT7NS62SQ310",
+      "LCF96CQFXWQG8",
+      "LCJWBJCRERTQB",
+      "LD8PPCTW4XBA7",
+      "LDBJTSHR02JMX",
+      "LE5TQA7K9NRK3",
+      "LEE8EVN5XC9E5",
+      "LEJGXXCTR2H4K",
+      "LF6RD8JSSRA73",
+      "LFGCJX38NNHQX",
+      "LG2N8TDS8T05E",
+      "LGSB45G5FN3JH",
+      "LHHXT6AWEYSCJ",
+      "LHPPM45V683B2",
+      "LJAHC088R59YM",
+      "LJPWJTCTQXFDA",
+      "LKABG2ZNRRH6D",
+      "LKSX94G1S3DRH",
+      "LMB6G6PJF5C03",
+      "LMP1HZ983Q51C",
+      "LMQFY4ECZFQSD",
+      "LMRZSWAVQ242S",
+      "LNH8KDSJVJDNJ",
+      "LPAHK469SBA7J",
+      "LPCDMXB707N1H",
+      "LPVAQB3YMDSW8",
+      "LR17VYM2N0SME",
+      "LRW8A9E97KCR6",
+      "LVR45PN1TT4ZA",
+      "LW69Q1V1JSVF0",
+      "LW93JWX3WBM5Q",
+      "LWSNV7968F58V",
+      "LZ0WGDBCNS52A",
+      "LZN47RJFCD29B"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "6Y5EP74O3WZIOEWKU67K52JX"
+  },
+  "MH4ECXC32O5VIUDH3IU4Z3VP": {
+    "item_name": "Pop",
+    "location_ids": [
+      "L19Y65Y519C0Y",
+      "L293PJM41KPGG",
+      "L4F4S5K5XZMGA",
+      "L536E9GAWKGQ1",
+      "L5BF321ERVF0A",
+      "L6HFGTPTDF2H8",
+      "L6TPXBT7YFQPG",
+      "L6YR34NA2G9FW",
+      "L7MMHQX4ZVWPH",
+      "L7XZ7D3M4FQ6S",
+      "LA0ZKACZ4QBS3",
+      "LAACJHC2M4Z86",
+      "LASTB29XNC1HN",
+      "LAT7NS62SQ310",
+      "LCJWBJCRERTQB",
+      "LDBJTSHR02JMX",
+      "LE5TQA7K9NRK3",
+      "LEE8EVN5XC9E5",
+      "LEJGXXCTR2H4K",
+      "LF6RD8JSSRA73",
+      "LFGCJX38NNHQX",
+      "LGSB45G5FN3JH",
+      "LHHXT6AWEYSCJ",
+      "LHPPM45V683B2",
+      "LJAHC088R59YM",
+      "LJPWJTCTQXFDA",
+      "LKSX94G1S3DRH",
+      "LMB6G6PJF5C03",
+      "LMRZSWAVQ242S",
+      "LNH8KDSJVJDNJ",
+      "LPAHK469SBA7J",
+      "LPCDMXB707N1H",
+      "LPVAQB3YMDSW8",
+      "LR17VYM2N0SME",
+      "LW93JWX3WBM5Q",
+      "LZ0WGDBCNS52A"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "MMBL2TB75ETH4AG6GKJYWGDO"
+  },
+  "PEIYGC2PM6XSMWVTU6DNVSOW": {
+    "item_name": "Coors Lite (24)",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "ZLHIWXLV4F6YTVSBCTNUJ2OX"
+  },
+  "DVTYXXTVMY2DR7APMJPBWQWY": {
+    "item_name": "Coors Original (48)",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "NIIUKVJFRFYFD4IQ2QVEWL2L"
+  },
+  "4HWEM4OMSIFFFCSFRHJVWF23": {
+    "item_name": "Vodka - Blue Dog 1.14L",
+    "location_ids": [
+      "LEE8EVN5XC9E5"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "LQCLHIXKR7NWZWTTE3RIVYO6"
+  },
+  "UKID5DUZKVZENK7TNT3N5GNL": {
+    "item_name": "Gin - Gordons 1.14L",
+    "location_ids": [
+      "L6HFGTPTDF2H8"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "67KPQCVRNLSY6ZHCCFQELURV"
+  },
+  "W4SNCT3FOXCZ2AOQUSVD7CZU": {
+    "item_name": "Whiskey 1.14L",
+    "location_ids": [
+      "L6HFGTPTDF2H8"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "IAITUZTZFHPIP5EF53RVJ5BK"
+  },
+  "MG3ATGYUPFPUJLI2AN4DMV2J": {
+    "item_name": "White Rum - Captain Morgan 1.14L",
+    "location_ids": [
+      "L6HFGTPTDF2H8"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "BP2QIOTLDEY6Q46SWP75EUZQ"
+  },
+  "ZIC3PC7STWXP7F7HLSP7VS2K": {
+    "item_name": "Spiced Rum - Captain Morgan 1.14L",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "GO2YAMSBMXUOFAC3WA7SSPNI"
+  },
+  "GJMQKFIUM5LFXKXDYLCCLTGT": {
+    "item_name": "Tequila - El Jimador 750ml",
+    "location_ids": [
+      "L6HFGTPTDF2H8"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "X4UYF3JCGRJDSHK3DQPE6OPT"
+  },
+  "DFE76YDFEG4PAOLPZ74JB6RE": {
+    "item_name": "Jack Daniels 1.14L",
+    "location_ids": [
+      "L6HFGTPTDF2H8"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "WKAYGSXKQSXLGQVDMBYORQMR"
+  },
+  "THB52LWU63AXPGN6QPNMHTXN": {
+    "item_name": "Apple Jack Daniels 750ml",
+    "location_ids": [
+      "LEE8EVN5XC9E5"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "4VXHKTPUKH2YY3LKNRRAD74N"
+  },
+  "O5FJO37724FOGEFBLITO5UCG": {
+    "item_name": "Honey Jack Daniels 750ml",
+    "location_ids": [
+      "LEE8EVN5XC9E5"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "IBRNQADZMCOZT5MCYKKFZGPP"
+  },
+  "3ZQZ4QOCJDT7G5NCQ57E46DF": {
+    "item_name": "Fireball 750ml",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "WKHVRGIIKXVTEVESKDRS4TI7"
+  },
+  "5EMNSTMUOMMOPCXXFY44JUXH": {
+    "item_name": "Belvedere 1.14L",
+    "location_ids": [
+      "L6HFGTPTDF2H8"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "LSAGTCNJWOBK7WIANABIOHNZ"
+  },
+  "MICGLAF4UOYLRTZPCVPMFCLU": {
+    "item_name": "Volcan 750ml",
+    "location_ids": [
+      "L6HFGTPTDF2H8"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "NZS6AOKMNCL3VJ4CTO4Y5WGE"
+  },
+  "LD66ZVNQZAIU2ESIRGC2G6PB": {
+    "item_name": "Hennessy 750ml",
+    "location_ids": [
+      "L6HFGTPTDF2H8"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "XYED4CXHUKPYPL7L45KG6GKP"
+  },
+  "Q3LU2BX7ECJIDFT2ODKTAK5T": {
+    "item_name": "Blue Moon (12)",
+    "location_ids": [
+      "LEE8EVN5XC9E5"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "KZBJ4XDVBXBMEFNHDTQO2GWV"
+  },
+  "MXA5N7EJ5AXERJ6L7ZXX2XUO": {
+    "item_name": "Miller Lite (15)",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "5RMQCNPWQZNR7CA4VWQESXGN"
+  },
+  "BIKMRMRDFXYFKTNBGJKOUPQL": {
+    "item_name": "Hop Valley (6)",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "GUH4KV7NXC65RSZVHY77QIIO"
+  },
+  "X2YW4DIX5HAZSD23IZIUTWSB": {
+    "item_name": "Simply Spiked Lemonade (12)",
+    "location_ids": [
+      "L6HFGTPTDF2H8"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "5TH3BBBGLSQBOO6U7QYADZUB"
+  },
+  "UV564L4GEP2PLRVQJAFQBAGZ": {
+    "item_name": "Vizzy",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "CUZXE7YTXJUZVG2EOQIVROX6"
+  },
+  "Y2OEGNKJMNAYISMZY36JVEBY": {
+    "item_name": "Butter Ripple 750ml",
+    "location_ids": [
+      "L19Y65Y519C0Y",
+      "L293PJM41KPGG",
+      "L4F4S5K5XZMGA",
+      "L536E9GAWKGQ1",
+      "L5BF321ERVF0A",
+      "L6TPXBT7YFQPG",
+      "L6YR34NA2G9FW",
+      "L7MMHQX4ZVWPH",
+      "LA0ZKACZ4QBS3",
+      "LAACJHC2M4Z86",
+      "LASTB29XNC1HN",
+      "LCJWBJCRERTQB",
+      "LDBJTSHR02JMX",
+      "LE5TQA7K9NRK3",
+      "LEJGXXCTR2H4K",
+      "LF6RD8JSSRA73",
+      "LFGCJX38NNHQX",
+      "LGSB45G5FN3JH",
+      "LHHXT6AWEYSCJ",
+      "LHPPM45V683B2",
+      "LJAHC088R59YM",
+      "LJPWJTCTQXFDA",
+      "LKSX94G1S3DRH",
+      "LMB6G6PJF5C03",
+      "LMRZSWAVQ242S",
+      "LNH8KDSJVJDNJ",
+      "LPAHK469SBA7J",
+      "LPCDMXB707N1H",
+      "LPVAQB3YMDSW8",
+      "LR17VYM2N0SME",
+      "LW93JWX3WBM5Q",
+      "LZ0WGDBCNS52A"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "Q5Q4HH4OAODCVFHDR5TAY2JI"
+  },
+  "U4URU4AQIO4C2V462SL3QBAK": {
+    "item_name": "Moscow Mule (6)",
+    "location_ids": [
+      "L6HFGTPTDF2H8"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "FHZAVH5SXJ2HHAO5NBDOOR2N"
+  },
+  "JJIMT62J33UNAWLSG37F6TR6": {
+    "item_name": "Trash Panda (6)",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "GP6P7Q76CPNH6ON2WB4QUASD"
+  },
+  "OO4A7FGSQKGJU5DTNHV7FK7N": {
+    "item_name": "Passion Fruit (4)",
+    "location_ids": [
+      "L6HFGTPTDF2H8"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "SHTVAYS5MRGZIOUPPOVXOI33"
+  },
+  "MT56I7JQLIATFLI32RXQSQNQ": {
+    "item_name": "Mountain Joe Shaft (24)",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "HC632ZPGIKKMK7524ZDMX3PV"
+  },
+  "CKYB25AYWAXFJIE327TPXXBC": {
+    "item_name": "Meadijito (24)",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "J7ZNZ5KZAEO35TYPM2UGF3WJ"
+  },
+  "Z5ZR2OQ4IOYP4UOSAPIWZWMF": {
+    "item_name": "Aperol Spritz (3)",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "ZBMEPH3YAZHFD2XNF6WNUGVI"
+  },
+  "DVFRGLQOA7WKZH3ESEPX5VRC": {
+    "item_name": "Southern Comfort 1.14L",
+    "location_ids": [
+      "L6HFGTPTDF2H8"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "D5C3ANH24SLFJZ5MDQ7MVGVA"
+  },
+  "6YX3UN7G7YM5NYPRQ5BKMIEA": {
+    "item_name": "Red wine 750ml",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "7V5NFFM3LCGGTIYAX5KUFSBA"
+  },
+  "SGQNH7XRO4MPFW534CKV3EG7": {
+    "item_name": "White Wine 750ml",
+    "location_ids": [
+      "LEE8EVN5XC9E5"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "NO5K4NJ7GJTEI3W2SKGNQL6L"
+  },
+  "YUR3PIKJST4CLKADAAJJWJ3Z": {
+    "item_name": "Rose Wine 750ml",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "R4RH56PFSWAOPXNKXM2RRXDD"
+  },
+  "PACTJV467B2T5QGXVNBSOWUJ": {
+    "item_name": "Red Bull (8)",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "HT22Z6QAE26PDSRNJFW2L6OS"
+  },
+  "NWV62EB567BTGEFXG3HPN5TJ": {
+    "item_name": "SF Red Bull (8)",
+    "location_ids": [
+      "L6HFGTPTDF2H8"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "IKPOGQY2UIYYKXS4TKHE2QMV"
+  },
+  "EMOEDR5ZCFNEQV7XDUPNQEY6": {
+    "item_name": "Btl Water (24)",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "MSKR2XDOAGF4MMR7WLP65CCC"
+  },
+  "M6GT2AIDZYWDYVGBXGAXMPD2": {
+    "item_name": "Sourpuss 1.14L",
+    "location_ids": [
+      "L362869NT855W"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "MVBDWCRU2F5AAPARJNUNOI3N"
+  },
+  "D2CYUD7USFBCC53WUAH24SWX": {
+    "item_name": "Coors Edge (12)",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "7QLSQ22Y6T5GVFVI5IJ4VMPN"
+  },
+  "BFUEJ75EHWETVP7QSSDIMHOW": {
+    "item_name": "Coors Edge",
+    "location_ids": [
+      "L19Y65Y519C0Y",
+      "L293PJM41KPGG",
+      "L4F4S5K5XZMGA",
+      "L536E9GAWKGQ1",
+      "L5BF321ERVF0A",
+      "L6HFGTPTDF2H8",
+      "L6TPXBT7YFQPG",
+      "L6YR34NA2G9FW",
+      "L7MMHQX4ZVWPH",
+      "L7XZ7D3M4FQ6S",
+      "LA0ZKACZ4QBS3",
+      "LAACJHC2M4Z86",
+      "LASTB29XNC1HN",
+      "LAT7NS62SQ310",
+      "LCJWBJCRERTQB",
+      "LDBJTSHR02JMX",
+      "LE5TQA7K9NRK3",
+      "LEE8EVN5XC9E5",
+      "LEJGXXCTR2H4K",
+      "LF6RD8JSSRA73",
+      "LFGCJX38NNHQX",
+      "LGSB45G5FN3JH",
+      "LHHXT6AWEYSCJ",
+      "LHPPM45V683B2",
+      "LJAHC088R59YM",
+      "LJPWJTCTQXFDA",
+      "LKSX94G1S3DRH",
+      "LMB6G6PJF5C03",
+      "LMRZSWAVQ242S",
+      "LNH8KDSJVJDNJ",
+      "LPAHK469SBA7J",
+      "LPCDMXB707N1H",
+      "LPVAQB3YMDSW8",
+      "LR17VYM2N0SME",
+      "LW93JWX3WBM5Q",
+      "LZ0WGDBCNS52A"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "YPXY4ZNFWZSL466P5WLB4H6D"
+  },
+  "KUWECFZTOVUMRWLALLCGK3SO": {
+    "item_name": "Red Bull Watermln (4)",
+    "location_ids": [
+      "L6HFGTPTDF2H8"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "QIEBKJXCX2UJVDXWDN2G6NBF"
+  },
+  "DUNIDBQCWCAN5P6EZM2ODFAK": {
+    "item_name": "Admission $10",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6HFGTPTDF2H8",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "ANT3RBDRCDMRIDYINM2GQBEW"
+  },
+  "DOPWDT5JYFYRDWRHCJGMVNR6": {
+    "item_name": "Admission $15",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6HFGTPTDF2H8",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "FXUA4BYHDS6TZDVPATCN4BVI"
+  },
+  "MH3HAG5YI73ZG6MEO56TYSFW": {
+    "item_name": "Admission $20",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6HFGTPTDF2H8",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "5L3CSOCV3LNTSAFIMJFYUGGL"
+  },
+  "MPKEA7RNMEBMMBIH352TZHKH": {
+    "item_name": "Admission $25",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6HFGTPTDF2H8",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "WEK6RUUD5ZAZSD3AZSQJWM7K"
+  },
+  "LNYT5NHDALMT44BHROOGH3Q3": {
+    "item_name": "Admission $30",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6HFGTPTDF2H8",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LV8VZ4XEYXQ7N",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "XFQ3QYZQ5NUQP7ZVXXTFMJSM"
+  },
+  "F77EKRX4JVBD7YD4LQSR4BAV": {
+    "item_name": "Admission $35",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6HFGTPTDF2H8",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "SOPTHCWQ3SOJ53ZGGBZCLR3Q"
+  },
+  "7ARCTM5QW6P6DWQZFFX6G7YX": {
+    "item_name": "Admission $40",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6HFGTPTDF2H8",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "RWNH4DQIYXMECWR7WOB5AJ3O"
+  },
+  "BO3TXJRCF3N33TARPYAJ32NH": {
+    "item_name": "Admission $45",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6HFGTPTDF2H8",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "UMZDZD6EJD3GZQ7VEVFY63SH"
+  },
+  "AHP4JXU2DO4YO6ESDK6ECOF4": {
+    "item_name": "Admission $50",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6HFGTPTDF2H8",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "YSOVTZESZIF7AF3I5CZ3KPLH"
+  },
+  "GO6MDT3PMKP2RPZOBQ6JDSOM": {
+    "item_name": "Boss Pass",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6HFGTPTDF2H8",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "OLI27O2E3QJQW24VYVUFCMSO"
+  },
+  "44JRLQX7KVKRQ5MPGBG27WTT": {
+    "item_name": "Fire/Police",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6HFGTPTDF2H8",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "U5OACIQ3UCRF22EMFEWAFNJI"
+  },
+  "3VWDBHG4LW2JOVL5OG7AGHKQ": {
+    "item_name": "Guest List",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6HFGTPTDF2H8",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "ZKECC3DGCPTUIFUIGPXTMJW3"
+  },
+  "DCDVJUNRAYUFFCPXNOFEDJOZ": {
+    "item_name": "Executive Promo",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6HFGTPTDF2H8",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "QVCPPL3C34QF2NDZNVIGFQDU"
+  },
+  "MMPG4SLKYTIYEODK5RA4ZDY6": {
+    "item_name": "Admission $0",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6HFGTPTDF2H8",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "DICTI36DGHOSF7XQCGL7H7HG"
+  },
+  "PHYA4ZPSIMSL2GWTUKICVZUU": {
+    "item_name": "Admission $5",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6HFGTPTDF2H8",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "PIU3Q36XCM7ZP3IOGFCX7Q2M"
+  },
+  "DGWFY7LZQXPRYW7FB7GGOUK2": {
+    "item_name": "Fast Pass $100",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6HFGTPTDF2H8",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "3HBQUOGF3RBUL2PBJPHERQ4H"
+  },
+  "LWDSAST5I6UQBRRWIKJDDCW4": {
+    "item_name": "Pedal Pub",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6HFGTPTDF2H8",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "D6D7WVW5P3V2JOOTQSC5QDZD"
+  },
+  "4ISGNJCN4CFSP7EQDZSTDIEM": {
+    "item_name": "Show Pass 2 Person",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6HFGTPTDF2H8",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "5FHYUCFPFPAZGX4BD32TY3YP"
+  },
+  "W2PORVGQCA4ZHF6HNBPPFWX2": {
+    "item_name": "Show Pass 4 Person",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6HFGTPTDF2H8",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "35P6GAENKFIQ7PXV7DOP6ANB"
+  },
+  "ERRVYFG3A4R46QRDL2LNZMX6": {
+    "item_name": "PB Highball 1oz",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "DSPPSSIMPJ6N7RUFLTLWE2QS"
+  },
+  "STWL3AK2HXFNQJLRIA6A3ZF6": {
+    "item_name": "PB Top Shelf 1oz",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "SAINUHDKLN2QOUKBMPS2LIHH"
+  },
+  "BOH6TPOFNOB5SL6EVQMKGZV7": {
+    "item_name": "PB Can Cocktail",
+    "location_ids": [
+      "L19Y65Y519C0Y",
+      "L293PJM41KPGG",
+      "L4F4S5K5XZMGA",
+      "L536E9GAWKGQ1",
+      "L5BF321ERVF0A",
+      "L6TPXBT7YFQPG",
+      "L6YR34NA2G9FW",
+      "L7MMHQX4ZVWPH",
+      "L7XZ7D3M4FQ6S",
+      "LA0ZKACZ4QBS3",
+      "LAACJHC2M4Z86",
+      "LASTB29XNC1HN",
+      "LAT7NS62SQ310",
+      "LCJWBJCRERTQB",
+      "LDBJTSHR02JMX",
+      "LE5TQA7K9NRK3",
+      "LEE8EVN5XC9E5",
+      "LEJGXXCTR2H4K",
+      "LF6RD8JSSRA73",
+      "LFGCJX38NNHQX",
+      "LGSB45G5FN3JH",
+      "LHHXT6AWEYSCJ",
+      "LHPPM45V683B2",
+      "LJAHC088R59YM",
+      "LJPWJTCTQXFDA",
+      "LKSX94G1S3DRH",
+      "LMB6G6PJF5C03",
+      "LMRZSWAVQ242S",
+      "LNH8KDSJVJDNJ",
+      "LPAHK469SBA7J",
+      "LPCDMXB707N1H",
+      "LPVAQB3YMDSW8",
+      "LR17VYM2N0SME",
+      "LW93JWX3WBM5Q",
+      "LZ0WGDBCNS52A"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "SROENT3HT3KZ5OQLSAQLI3NC"
+  },
+  "QUFVXHHY24BS2TKXQBDMXQPX": {
+    "item_name": "PB Can 355ml",
+    "location_ids": [
+      "L19Y65Y519C0Y",
+      "L293PJM41KPGG",
+      "L4F4S5K5XZMGA",
+      "L536E9GAWKGQ1",
+      "L5BF321ERVF0A",
+      "L6TPXBT7YFQPG",
+      "L6YR34NA2G9FW",
+      "L7MMHQX4ZVWPH",
+      "L7XZ7D3M4FQ6S",
+      "LA0ZKACZ4QBS3",
+      "LAACJHC2M4Z86",
+      "LASTB29XNC1HN",
+      "LAT7NS62SQ310",
+      "LCJWBJCRERTQB",
+      "LDBJTSHR02JMX",
+      "LE5TQA7K9NRK3",
+      "LEE8EVN5XC9E5",
+      "LEJGXXCTR2H4K",
+      "LF6RD8JSSRA73",
+      "LFGCJX38NNHQX",
+      "LGSB45G5FN3JH",
+      "LHHXT6AWEYSCJ",
+      "LHPPM45V683B2",
+      "LJAHC088R59YM",
+      "LJPWJTCTQXFDA",
+      "LKSX94G1S3DRH",
+      "LMB6G6PJF5C03",
+      "LMRZSWAVQ242S",
+      "LNH8KDSJVJDNJ",
+      "LPAHK469SBA7J",
+      "LPCDMXB707N1H",
+      "LPVAQB3YMDSW8",
+      "LR17VYM2N0SME",
+      "LW93JWX3WBM5Q",
+      "LZ0WGDBCNS52A"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "H6BFQITS454ULW4H2SU4RYH5"
+  },
+  "M75KSEB2DN6ALUJVEJFXH5DH": {
+    "item_name": "PB GL Wine 5oz",
+    "location_ids": [
+      "L19Y65Y519C0Y",
+      "L293PJM41KPGG",
+      "L4F4S5K5XZMGA",
+      "L536E9GAWKGQ1",
+      "L5BF321ERVF0A",
+      "L6TPXBT7YFQPG",
+      "L6YR34NA2G9FW",
+      "L7MMHQX4ZVWPH",
+      "L7XZ7D3M4FQ6S",
+      "LA0ZKACZ4QBS3",
+      "LAACJHC2M4Z86",
+      "LASTB29XNC1HN",
+      "LAT7NS62SQ310",
+      "LCJWBJCRERTQB",
+      "LDBJTSHR02JMX",
+      "LE5TQA7K9NRK3",
+      "LEE8EVN5XC9E5",
+      "LEJGXXCTR2H4K",
+      "LF6RD8JSSRA73",
+      "LFGCJX38NNHQX",
+      "LGSB45G5FN3JH",
+      "LHHXT6AWEYSCJ",
+      "LHPPM45V683B2",
+      "LJAHC088R59YM",
+      "LJPWJTCTQXFDA",
+      "LKSX94G1S3DRH",
+      "LMB6G6PJF5C03",
+      "LMRZSWAVQ242S",
+      "LNH8KDSJVJDNJ",
+      "LPAHK469SBA7J",
+      "LPCDMXB707N1H",
+      "LPVAQB3YMDSW8",
+      "LR17VYM2N0SME",
+      "LW93JWX3WBM5Q",
+      "LZ0WGDBCNS52A"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "YHQZCQ66KBHAPCI5PMSCO6GZ"
+  },
+  "U7K4K2NXH5CK3W5V2GX6MOIB": {
+    "item_name": "PB Red Bull / Mocktail",
+    "location_ids": [
+      "L19Y65Y519C0Y",
+      "L293PJM41KPGG",
+      "L4F4S5K5XZMGA",
+      "L536E9GAWKGQ1",
+      "L5BF321ERVF0A",
+      "L6TPXBT7YFQPG",
+      "L6YR34NA2G9FW",
+      "L7MMHQX4ZVWPH",
+      "L7XZ7D3M4FQ6S",
+      "LA0ZKACZ4QBS3",
+      "LAACJHC2M4Z86",
+      "LASTB29XNC1HN",
+      "LAT7NS62SQ310",
+      "LCJWBJCRERTQB",
+      "LDBJTSHR02JMX",
+      "LE5TQA7K9NRK3",
+      "LEE8EVN5XC9E5",
+      "LEJGXXCTR2H4K",
+      "LF6RD8JSSRA73",
+      "LFGCJX38NNHQX",
+      "LGSB45G5FN3JH",
+      "LHHXT6AWEYSCJ",
+      "LHPPM45V683B2",
+      "LJAHC088R59YM",
+      "LJPWJTCTQXFDA",
+      "LKSX94G1S3DRH",
+      "LMB6G6PJF5C03",
+      "LMRZSWAVQ242S",
+      "LNH8KDSJVJDNJ",
+      "LPAHK469SBA7J",
+      "LPCDMXB707N1H",
+      "LPVAQB3YMDSW8",
+      "LR17VYM2N0SME",
+      "LW93JWX3WBM5Q",
+      "LZ0WGDBCNS52A"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "WCONH46QZLTDZTKCYFZKL37E"
+  },
+  "ABUIVJSTP4VWTUJKEJORILYD": {
+    "item_name": "PB Btl Water",
+    "location_ids": [
+      "L19Y65Y519C0Y",
+      "L293PJM41KPGG",
+      "L4F4S5K5XZMGA",
+      "L536E9GAWKGQ1",
+      "L5BF321ERVF0A",
+      "L6TPXBT7YFQPG",
+      "L6YR34NA2G9FW",
+      "L7MMHQX4ZVWPH",
+      "L7XZ7D3M4FQ6S",
+      "LA0ZKACZ4QBS3",
+      "LAACJHC2M4Z86",
+      "LASTB29XNC1HN",
+      "LAT7NS62SQ310",
+      "LCJWBJCRERTQB",
+      "LDBJTSHR02JMX",
+      "LE5TQA7K9NRK3",
+      "LEE8EVN5XC9E5",
+      "LEJGXXCTR2H4K",
+      "LF6RD8JSSRA73",
+      "LFGCJX38NNHQX",
+      "LGSB45G5FN3JH",
+      "LHHXT6AWEYSCJ",
+      "LHPPM45V683B2",
+      "LJAHC088R59YM",
+      "LJPWJTCTQXFDA",
+      "LKSX94G1S3DRH",
+      "LMB6G6PJF5C03",
+      "LMRZSWAVQ242S",
+      "LNH8KDSJVJDNJ",
+      "LPAHK469SBA7J",
+      "LPCDMXB707N1H",
+      "LPVAQB3YMDSW8",
+      "LR17VYM2N0SME",
+      "LW93JWX3WBM5Q",
+      "LZ0WGDBCNS52A"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "WUNNXGUN4U3NPYP4OXD7PUO4"
+  },
+  "LJLK6UBB3XCCGK6LDZ57OGGW": {
+    "item_name": "PB Pop",
+    "location_ids": [
+      "L19Y65Y519C0Y",
+      "L293PJM41KPGG",
+      "L4F4S5K5XZMGA",
+      "L536E9GAWKGQ1",
+      "L5BF321ERVF0A",
+      "L6TPXBT7YFQPG",
+      "L6YR34NA2G9FW",
+      "L7MMHQX4ZVWPH",
+      "L7XZ7D3M4FQ6S",
+      "LA0ZKACZ4QBS3",
+      "LAACJHC2M4Z86",
+      "LASTB29XNC1HN",
+      "LAT7NS62SQ310",
+      "LCJWBJCRERTQB",
+      "LDBJTSHR02JMX",
+      "LE5TQA7K9NRK3",
+      "LEE8EVN5XC9E5",
+      "LEJGXXCTR2H4K",
+      "LF6RD8JSSRA73",
+      "LFGCJX38NNHQX",
+      "LGSB45G5FN3JH",
+      "LHHXT6AWEYSCJ",
+      "LHPPM45V683B2",
+      "LJAHC088R59YM",
+      "LJPWJTCTQXFDA",
+      "LKSX94G1S3DRH",
+      "LMB6G6PJF5C03",
+      "LMRZSWAVQ242S",
+      "LNH8KDSJVJDNJ",
+      "LPAHK469SBA7J",
+      "LPCDMXB707N1H",
+      "LPVAQB3YMDSW8",
+      "LR17VYM2N0SME",
+      "LW93JWX3WBM5Q",
+      "LZ0WGDBCNS52A"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "2OBL5K5ZCQ32XJZQGW5XQMAD"
+  },
+  "T3HPFPEEW3KEFWH6C3FYIW2E": {
+    "item_name": "PB Coors Edge",
+    "location_ids": [
+      "L19Y65Y519C0Y",
+      "L293PJM41KPGG",
+      "L4F4S5K5XZMGA",
+      "L536E9GAWKGQ1",
+      "L5BF321ERVF0A",
+      "L6TPXBT7YFQPG",
+      "L6YR34NA2G9FW",
+      "L7MMHQX4ZVWPH",
+      "L7XZ7D3M4FQ6S",
+      "LA0ZKACZ4QBS3",
+      "LAACJHC2M4Z86",
+      "LASTB29XNC1HN",
+      "LAT7NS62SQ310",
+      "LCJWBJCRERTQB",
+      "LDBJTSHR02JMX",
+      "LE5TQA7K9NRK3",
+      "LEE8EVN5XC9E5",
+      "LEJGXXCTR2H4K",
+      "LF6RD8JSSRA73",
+      "LFGCJX38NNHQX",
+      "LGSB45G5FN3JH",
+      "LHHXT6AWEYSCJ",
+      "LHPPM45V683B2",
+      "LJAHC088R59YM",
+      "LJPWJTCTQXFDA",
+      "LKSX94G1S3DRH",
+      "LMB6G6PJF5C03",
+      "LMRZSWAVQ242S",
+      "LNH8KDSJVJDNJ",
+      "LPAHK469SBA7J",
+      "LPCDMXB707N1H",
+      "LPVAQB3YMDSW8",
+      "LR17VYM2N0SME",
+      "LW93JWX3WBM5Q",
+      "LZ0WGDBCNS52A"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "7FT2NRTOZQT22APZURUUHD4Y"
+  },
+  "LXKU5YEDOHIADPMYUA5GCQBU": {
+    "item_name": "Clive Burger",
+    "location_ids": [
+      "L6HFGTPTDF2H8",
+      "LKKNNRRK8V2S8",
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "JZABTAYIQJTW53QN6ETH5PD2"
+  },
+  "HCPYJXCLYZUTTHKXA7QAZNY4": {
+    "item_name": "Brisket Sandwich",
+    "location_ids": [
+      "L6HFGTPTDF2H8",
+      "LKKNNRRK8V2S8",
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "COLNFA3VHHUFAFVJOHWENLTA"
+  },
+  "CRNN5HT2U24HLCTKMZSFXFWW": {
+    "item_name": "Chickpea Burger",
+    "location_ids": [
+      "LKKNNRRK8V2S8",
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "HO4ILPBKKWGUM5WCQBCUOZHM"
+  },
+  "QZSBQJ3N7DHIUIT5L4BTM7R3": {
+    "item_name": "Chicken Sandwich",
+    "location_ids": [
+      "L6HFGTPTDF2H8",
+      "LKKNNRRK8V2S8",
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "AMV2A75UC3PZI63VWJV4X3DA"
+  },
+  "7HFC6XAJXPJOBDXQOCGFJHK6": {
+    "item_name": "Jalapeno Brat",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "A5QJ2KRQDBUX5VTWE456HQN6"
+  },
+  "AGACPQ446ITY5K7JXIB3PATJ": {
+    "item_name": "Single Clive",
+    "location_ids": [
+      "L6HFGTPTDF2H8",
+      "LKKNNRRK8V2S8",
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "ZBVOL6H3XIWZCQKRQZDE57CU"
+  },
+  "BGMIZ4MFGLMISGD3AO2DYQ4O": {
+    "item_name": "Double Clive",
+    "location_ids": [
+      "L6HFGTPTDF2H8",
+      "LKKNNRRK8V2S8",
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "SIKXA4DR42MK4EMFR2O6LJ2U"
+  },
+  "GKBU6TQX6CPM2JUZYALFRBIO": {
+    "item_name": "Nathans Hot Dogs",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "XSRYSDPOWWRRPXAAGJSLMUUJ"
+  },
+  "ZG67SGTVLF2RDJ7FNAIA5RJU": {
+    "item_name": "Surfy Queso Dip",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "CW5GXWWEK734IEW73OPHWVMZ"
+  },
+  "CUSO4QKPXL5CN5TNOGK2G2BL": {
+    "item_name": "Pepperoni",
+    "location_ids": [
+      "L6HFGTPTDF2H8",
+      "LMED1J8GYVVY6"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "GMSTXOP2ZSU4SWARYTPCRV4Y"
+  },
+  "FIB4DWTV7QJLU5FYYWASNDZS": {
+    "item_name": "Hawaiian",
+    "location_ids": [
+      "L6HFGTPTDF2H8",
+      "LMED1J8GYVVY6"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "6I3MRN55BMYFOGXU4YJICCDM"
+  },
+  "2T2T5ERXQ2FKX4IEHOI3OVZD": {
+    "item_name": "Margherita",
+    "location_ids": [
+      "L6HFGTPTDF2H8",
+      "LMED1J8GYVVY6"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "WETDZSFRNBPW52DUCN2A2YIP"
+  },
+  "B7VMEPFE4XQIPND4UZTCWX6S": {
+    "item_name": "$10 Drink Ticket",
+    "location_ids": [
+      "LTRMWHYFCAT83"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "N6USAZRRU5I6Y6VMLADVFPSJ"
+  },
+  "IXKU2ZDIUOYHUM2XSPB2XGI4": {
+    "item_name": "$14 Drink Ticket",
+    "location_ids": [
+      "LTRMWHYFCAT83"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "QNXJKMNW5ELTLFVFZX5TKFPU"
+  },
+  "VF344BHTHRRYINBMGYTLXWS6": {
+    "item_name": "$6.50 Non Alc Ticket",
+    "location_ids": [
+      "LTRMWHYFCAT83"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "B5D5WPHHMU6UZDEJSMGY6GEE"
+  },
+  "7QOO2ZPHTDF44HMXARXVAK3F": {
+    "item_name": "$4.25 Pop Ticket",
+    "location_ids": [
+      "LTRMWHYFCAT83"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "RKCKRRNA3EOTBXB5TOXUHPYH"
+  },
+  "FPRXGF33KU5YHPRKQC5VK3VB": {
+    "item_name": "$22.50 Food Ticket",
+    "location_ids": [
+      "LTRMWHYFCAT83"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "6FKNERC6BECFC7BDFQ6IYBMO"
+  },
+  "Q55TIEB6DUYW7BA4S7M5CVF7": {
+    "item_name": "Test Item",
+    "location_ids": [
+      "L19Y65Y519C0Y",
+      "L293PJM41KPGG",
+      "L4F4S5K5XZMGA",
+      "L5BF321ERVF0A",
+      "L6TPXBT7YFQPG",
+      "L6YR34NA2G9FW",
+      "L7MMHQX4ZVWPH",
+      "L7XZ7D3M4FQ6S",
+      "LAACJHC2M4Z86",
+      "LASTB29XNC1HN",
+      "LAT7NS62SQ310",
+      "LCJWBJCRERTQB",
+      "LDBJTSHR02JMX",
+      "LE5TQA7K9NRK3",
+      "LEE8EVN5XC9E5",
+      "LF6RD8JSSRA73",
+      "LFGCJX38NNHQX",
+      "LGSB45G5FN3JH",
+      "LHHXT6AWEYSCJ",
+      "LHPPM45V683B2",
+      "LJAHC088R59YM",
+      "LJPWJTCTQXFDA",
+      "LKSX94G1S3DRH",
+      "LMB6G6PJF5C03",
+      "LMRZSWAVQ242S",
+      "LNH8KDSJVJDNJ",
+      "LPAHK469SBA7J",
+      "LPCDMXB707N1H",
+      "LPVAQB3YMDSW8",
+      "LR17VYM2N0SME",
+      "LW93JWX3WBM5Q",
+      "LZ0WGDBCNS52A"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "EX5VP3DBSIHQH3CNIELEJSXP"
+  },
+  "3ED3ZRYW5CQ5PYHQMKZM3ZWM": {
+    "item_name": "$0.25 (Quarters)",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "M5QIKJ5LR26KX47UZA37EOIK"
+  },
+  "27USI772QTBWWHQGS3NQ7BNX": {
+    "item_name": "$1 (Loonies)",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "VFSHJ6N2WRICNDL7KEPXBC4N"
+  },
+  "Q63S4MMA5KWANIBHII4FQXZD": {
+    "item_name": "$2 (Toonies)",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "2BBAV56JOQTQT4C3FKFT4WFK"
+  },
+  "4EGZTAVOEGTM6QLQKSCRY5XJ": {
+    "item_name": "$5 Bills",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "FZATNB6PYNZVI36M7ZA6TFS3"
+  },
+  "NUQ5UC37UONHV3YM2QZYZUBB": {
+    "item_name": "$10 Bills",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "IR5ZOG3JAW3ZCQXU67QQNB67"
+  },
+  "GRCBCSKEYYEYO5PNLXWDZEZQ": {
+    "item_name": "$20 Bills",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "MCUXTGXMPC7DJEN7NVWAZYMV"
+  },
+  "PHXUQ753G355M5GVM23JCIX3": {
+    "item_name": "Cash Sweep",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "V6KCM6XRDAG7T6VEIYG6FFD6"
+  },
+  "OJX7LFY3GERA7YRJCG6VIC6H": {
+    "item_name": "Ticket Sweep",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "3BHXTMMWNFO6ZBDGQLK2LJLG"
+  },
+  "RI2F2OTLJPDP553SGFYZKHYT": {
+    "item_name": "Lemon Sorbet",
+    "location_ids": [
+      "LMED1J8GYVVY6"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "JHD2637Z7Q7WLBZADN5C5MQS"
+  },
+  "PXKJWGJY77TTNX2FV4TTGK7B": {
+    "item_name": "Salted Caramel",
+    "location_ids": [
+      "LMED1J8GYVVY6"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "YWA4V32L7PNRLL6IOMBXI7JJ"
+  },
+  "J23IDXDJVGZP2XR34Z7KAH22": {
+    "item_name": "Stracciatella",
+    "location_ids": [
+      "LMED1J8GYVVY6"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "7HPP2MWAY3WWNMBADDVISAGS"
+  },
+  "H2LWTAPC7DGXLJFGMQ3ROIMJ": {
+    "item_name": "Prosecco Gelato",
+    "location_ids": [
+      "LMED1J8GYVVY6"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "BRPBSOBHREX54TRNSS2T4KE2"
+  },
+  "ROXDX5S6HEZCWI4H2OJCRWGJ": {
+    "item_name": "Event Premium Drink Ticket",
+    "location_ids": [
+      "L51B0Y1P9GE79",
+      "LV8VZ4XEYXQ7N"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "FGAXYN4KEE7QTE7UKAW2QS6D"
+  },
+  "3FP3VVRGHBMBTKRLAXRLUNVS": {
+    "item_name": "Event Standard Drink Ticket",
+    "location_ids": [
+      "L51B0Y1P9GE79",
+      "LV8VZ4XEYXQ7N"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "3NE6ONIMLIND4PSWPYFGCWVV"
+  },
+  "6VRJIUJ7GQFGCTDDVP2ATBNA": {
+    "item_name": "Event BBQ/DZ Ticket",
+    "location_ids": [
+      "L51B0Y1P9GE79",
+      "LV8VZ4XEYXQ7N"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "U5XKRTAR5I44X5GK2QLZ7CNI"
+  },
+  "FLXSJVCITLPH4GGKEPZJCJHY": {
+    "item_name": "UFT",
+    "location_ids": [
+      "L51B0Y1P9GE79",
+      "LV8VZ4XEYXQ7N"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "VXUEFYZHNSHJLJV6QYG74VZG"
+  },
+  "AAQXFFHJCCOYRC2RCFJSIUXX": {
+    "item_name": "El Paloma (4)",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "GER3GUI4E2WRYM6YTNWLBT7Q"
+  },
+  "5VYSZS7I4JSKU6Q2ICIJ236K": {
+    "item_name": "$21 Admission",
+    "location_ids": [
+      "L51B0Y1P9GE79",
+      "LV8VZ4XEYXQ7N"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "RKU4WTYA3R7SDHVH5ETSNH3Y"
+  },
+  "TQSOGSSH73Z6DPXKFEDAFUL7": {
+    "item_name": "Room Rental",
+    "location_ids": [
+      "L51B0Y1P9GE79",
+      "LPAHK469SBA7J",
+      "LV8VZ4XEYXQ7N"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "Q6IECVSZXNWAH7OKD3CXD66V"
+  },
+  "AIKO7HTJFHZ4EOW7WZU5GE4O": {
+    "item_name": "Open Admission",
+    "location_ids": [
+      "L51B0Y1P9GE79",
+      "LV8VZ4XEYXQ7N"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "M4HYI546KIV4FUVGMA3CCZFO"
+  },
+  "E6RXYYWJM2JPPPXEV3VYRCHW": {
+    "item_name": "30 Drink Tickets",
+    "location_ids": [
+      "L51B0Y1P9GE79",
+      "LV8VZ4XEYXQ7N"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "CSOKWGKGPW3KYEUEFM6WCRIY"
+  },
+  "DKFMA53TECCRPZRIIKEJKQIX": {
+    "item_name": "Vizzy Assorted (24)",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "XDHBDV4ASNMNYTCJ5F5BRTAF"
+  },
+  "OMZF2YHBWK2OJTQMLBW3YWQ3": {
+    "item_name": "Coors Original (24)",
+    "location_ids": [
+      "LEE8EVN5XC9E5"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "DNKPWTPA5C65Z3BVD7W5O62U"
+  },
+  "63XFQ6LOVTKEIFKAWXFT65ZP": {
+    "item_name": "Frac Juice",
+    "location_ids": [
+      "LV8VZ4XEYXQ7N"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "MXCGYD2M6MAAXAWETZKE3JMY"
+  },
+  "CLRBN2AZB2KHXTD4CP2K4TIY": {
+    "item_name": "Coors Lite (48)",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "DKUMUALED4HLWZH5GPOZP6XV"
+  },
+  "HTLSCREK6D2IF6RJBSQEESF2": {
+    "item_name": "Johnnie Walker Blue Btl",
+    "location_ids": [
+      "LEE8EVN5XC9E5"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "ULIQLVTNFZ3QBFOKDIXKOAYM"
+  },
+  "J2PYOV6QMAY6OKXYXOCSQUD2": {
+    "item_name": "Twisted Tea (12)",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "N42BD3Q7UE57NU6HGBNPSO6S"
+  },
+  "533Y7UKIBAMMA7IP5NAFHJXS": {
+    "item_name": "$85 General Admission",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "7XK7JFEYHQTKUBSB3RLA6TAM"
+  },
+  "UFKPMH5LO32FXJGXWR35KJ3W": {
+    "item_name": "$155 VIP Deck Admission",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "F3QJ3KU4EVZN4VTJXGKTTWYW"
+  },
+  "ZRJLNQQKYGQ7A5BAQE4PBHHH": {
+    "item_name": "Admission $60",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "RFFOWGJUS7OGFNYQ2NJ77O3Y"
+  },
+  "GZ7NW4CCQHGJ5OQGXM4QOQOD": {
+    "item_name": "Admission $75",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "Y4VXV53UZ7TKOLZIACAZQZEL"
+  },
+  "BXDMCNSZ5K245NLO7F44QDWU": {
+    "item_name": "$20 Buffet",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "OQQRYXZGSZDJBSQ7RNBVINX2"
+  },
+  "VRCTNCR63STIBK5I7Q5N67BO": {
+    "item_name": "Fireball 750ml",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "JQ2CE5YSFKJIVXCFGXWRNATA"
+  },
+  "QDNDPS6ZMEUG5FI6GUA5KJMX": {
+    "item_name": "Fireball 1.14L",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "GLPMPAAPFCGA4EAZCKMZHBCE"
+  },
+  "KBLB3DICOMHP7BEIVGJAIANC": {
+    "item_name": "Daily Feature",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "VQDZI4CZNSQ6GYG2BQ2QTODD"
+  },
+  "GBEKL5WCYTENXGPNDMF5SQQI": {
+    "item_name": "Hard Bite Assorted Chips",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "VEPYWGMTKB25TFVVLQZR7NS3"
+  },
+  "G6J2UYFCWB5NFSIO5LPYYDW2": {
+    "item_name": "Pop",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "POLL5T5ZRLCH3C5X2MOVAFQE"
+  },
+  "FI57PSLQQDRRT4Z6GBC6Y3RO": {
+    "item_name": "Popcorn",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "7UGTINVNXO4RSHZJATJGLXYP"
+  },
+  "B6GXU5ULSUNQ5YT7V4BSFZ7P": {
+    "item_name": "Granola Bars",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "TDBTE5MVPUIGOGJFANWV7DLO"
+  },
+  "YFCOUAHU2XGGRLNMYQKBXLR2": {
+    "item_name": "Chocolate Bars & Sweets",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "S753L4DYAQYHO2NLFRIBZCSL"
+  },
+  "HZX3YR7C5HHXV6JM3ZGMSCMZ": {
+    "item_name": "Wraseberry Ale",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "LRYB2TLKRIIN77RVCZRHNYVZ"
+  },
+  "EIQ7O6D6BXOKUXD37BZ3H6E6": {
+    "item_name": "Velvet Fog",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "6GSRFAKGYYVMKP7UKTVY6ZWE"
+  },
+  "E44DYHIWAF6J6Q7GI4QXWIM3": {
+    "item_name": "Sun Scout",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "G4LZMVEY4Z5D6FZJAH4LDHWD"
+  },
+  "RQGC5OGCCTRLSMZ35PJVJXIU": {
+    "item_name": "Sleeman Clear",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "DSOK5BQ6TUEUAPMKXMV3VGP4"
+  },
+  "RFNB22GGP6LGAMADNKBT6D5R": {
+    "item_name": "Burwood Gin Soda (Pineapple Lemon)",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "XOU54XRW5NSK4O7LRNDH3ZJM"
+  },
+  "3APUTSZS73O3TTWWUBNMZZKJ": {
+    "item_name": "Plume House Red",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "PTIP5ONNMNFGULFNFWMNW7NW"
+  },
+  "ZH76ERP2VZKQQ2ZSHPDEGBH2": {
+    "item_name": "Plume House White",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "YJCFDGVJEGSDSH6E6E3KGFBX"
+  },
+  "CYV6N537J7V4SYD4RPPCG3Y4": {
+    "item_name": "Well Hibiscus Lemonade",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "VTDHI772BTB7L2QCXOCOKKVV"
+  },
+  "2VS3QPXZHYA2ZUZ5P7OIJUCQ": {
+    "item_name": "Well Greens",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "DYOLO27R7RTJHGPGQR3LXZTA"
+  },
+  "7UV4RWBHCLVQDSY56NN7XSVE": {
+    "item_name": "Coffee",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "BIAM3HH5BUCEVY5INMOQ7EQ3"
+  },
+  "FRHTR64VA4SQOAMBVU6I7MQR": {
+    "item_name": "Water",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "LJ4OT2SKS2KUAO6FKIFRU3OX"
+  },
+  "THSX6LDTAVTUMJLLOTICDD7X": {
+    "item_name": "Smirnoff Vodka",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "5IC57W6YKX2M43CVYOY5BPEQ"
+  },
+  "EGDFQE2EKFCEQ6ELZDW2ZOFY": {
+    "item_name": "Don Julio Anejo",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "37WRYK2JVCZ423FX6XPFL5CY"
+  },
+  "2QAP5CIPTKHGZ24YVSHGSEW5": {
+    "item_name": "Molson Canadian",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "PQCY6NCBFRFZ4J6QEKRQ7A3X"
+  },
+  "2HT63EIRHLYV7E6CNWTQIBWR": {
+    "item_name": "Vizzy",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "X64DQU4K7QJZSNJWPAQDT4YK"
+  },
+  "3ZTKGT2U7O2QHDXYCVTG2AHF": {
+    "item_name": "Jack Daniels",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "VGWKA5WUN3O3BO2OMMIIQOPT"
+  },
+  "JTSPH57WY3BEGHRVDP4U7VU3": {
+    "item_name": "Banana Liqueur",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "LEHX3FMZVYK7UVKH7TBMIFC7"
+  },
+  "XJRU2TPKXNU5MO7V7LNGBHIG": {
+    "item_name": "El Tequileno Platinum",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "GDEXBGJAJCLLWVFRAJFZ2OON"
+  },
+  "RASJBH7TYAT6NLVDEPFS675C": {
+    "item_name": "Babich Prosecco",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "OYD2BD47LOFXKQF7K4KMGJ4W"
+  },
+  "3SYHI3XISMNR67HTEL7CZZ5D": {
+    "item_name": "Smirnoff Vodka Orange",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "ARCEBB4RO6TP64TWHEAZKR5C"
+  },
+  "42US3GTIESI2JNZNOBLYJCYU": {
+    "item_name": "Smirnoff Vodka Raspberry",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "HNSCMJHM4XWTZTPNH5LNQACO"
+  },
+  "BKCE3V32PH2X5WK6SEE2BFFZ": {
+    "item_name": "Stampede Rye",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "RHV4DOVT27223U7YOH4DXEZL"
+  },
+  "2VHJYDQLOHL66KFO6S5O3DV7": {
+    "item_name": "Butter Ripple Schnapps",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "NTE4PMEEZVIADFB2M3NIDFMQ"
+  },
+  "EUUNL3COFUBOGMJ7OGYUYDAD": {
+    "item_name": "Hennessey",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "JTPPQNTCZYNV3HDVOAC72YQY"
+  },
+  "H2RLPKTF5IMVDMURP6C2VBMB": {
+    "item_name": "Kahlua",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "GIWZS7CV7F2AK3SY5G7OJOTH"
+  },
+  "J6EQE74TJEQYL3WOXTMSKPSZ": {
+    "item_name": "Sour Puss Red",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "WEJK6FX3SWZBOTPR57VTHI2P"
+  },
+  "EKSMBQCSEWZWE7SDTBSKIJWU": {
+    "item_name": "Simply Lemonade",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "A2P2GQVQGMV4RANGATJZGO55"
+  },
+  "YFFGPHRA352OZT5GQC47P2WH": {
+    "item_name": "Belvedere",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "3QEO73GP25PBH75UEI5RB7JD"
+  },
+  "XP4USZQTKPCH5NJCZRSMT6DQ": {
+    "item_name": "Captain Morgans White",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "MJMVMU2PEHFI26QLZWK2VN4H"
+  },
+  "W3QPDSSSSTWHZJ2G5OKOJI7Y": {
+    "item_name": "Jack Daniels Tennesse",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "XCRH6T2NTHWMBQTDAH4X4ZHI"
+  },
+  "G33B2SNMG3KCR3BQCPNC2IHL": {
+    "item_name": "Jack Daniels Honey",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "5OINUPL6YLSDT5XL5SLSONSZ"
+  },
+  "UBR44EQLM7X2JXKLJGJXAHY2": {
+    "item_name": "Hey Yall",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "SIC4PSWX6TOT7JQQD5JTMLPL"
+  },
+  "ZHFWBDQ2YRPOG7YXC4DPPYEB": {
+    "item_name": "Smirnoff Vodka Blueberry",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "EEXLGC3MVWTGHDGND2YOR4TT"
+  },
+  "CFSABZY7AOSYDQYPPK2X42LP": {
+    "item_name": "Baileys",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "DAILC4SRQTAFEBA3FRTJK6ZT"
+  },
+  "4C7H3JKWOL4CEKFLOFLE4P6G": {
+    "item_name": "McGuinness Peach",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "O4EU27NBDX5XIPESR3G6TZNS"
+  },
+  "MHPGQPKKZJRV634NSZJHDEHF": {
+    "item_name": "Sour Puss Green",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "DIWOAYYMQQNHHCLFLH6PGWOE"
+  },
+  "5HXIO7Y35FNJB272ZKLHOBL2": {
+    "item_name": "Kris Pinot Gris",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "ZCSHI6LCL23AKYYN5UP5NC2L"
+  },
+  "22ANBQCWEGW7KVIKK2BY5CIJ": {
+    "item_name": "Jagermeister",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "SDD26S2BCHO7ZC4UGCKH4JB2"
+  },
+  "4MCDVNPKNBKIZD3V4ZT72ZG5": {
+    "item_name": "Sambuca",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "SOU4LN2E4QSWE6GKZO2MDNL6"
+  },
+  "B4YQ2EJ5DZP4QXNKAAJ7FU37": {
+    "item_name": "El Jimador Blanco",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "6SCYFN3PWXJFN3U747RK6SU3"
+  },
+  "ELEH33WXIGSUMZJOGHBIYTZ5": {
+    "item_name": "Feudi Maccare Nere",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "2ONOKAOHVS2HMOLX4O7R4RHI"
+  },
+  "V37XXJPBK3B6L7B7C4YAGLMG": {
+    "item_name": "Redbull",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "HQHCGIODUQOQWK6WFCZPXAXL"
+  },
+  "5RL5XLUDPRZMXGR5PBGQF4TM": {
+    "item_name": "Amaretto Luxardo",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "77YCUJLLQPXL3I77DZMSAJ2R"
+  },
+  "ZFFM7DJEU4K6OPMYTLASWDSL": {
+    "item_name": "Jack Daniels Apple",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "APUPACURU4Z26OONDQFVM74J"
+  },
+  "T3ZOANEY4P2LCQWZU5BT7M4C": {
+    "item_name": "Old Forester",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "GZJXSWXFX3QBLQJAOJSMXHGO"
+  },
+  "NW7VMNUVBSNXMB5E2KH6RON7": {
+    "item_name": "Jack Daniels Fire",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "BZXX7JPJDRT5G6M4LRHWKJ3I"
+  },
+  "NKELNU3VLQIS4GOA6CCUOIEO": {
+    "item_name": "Coors Light",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "O3MUIGTJKS5DKW55KKBD2Z4X"
+  },
+  "F2RYHZSPXX24IIAGCO2VFEKH": {
+    "item_name": "Hendricks",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "HPJ5UTDNC3LWVORPEGKC3GHH"
+  },
+  "DDQFXEK3FPR6U2DP7BJO5WK5": {
+    "item_name": "Don Julio Reposado",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "LTZN633MELPPRRLPIWJQ26VV"
+  },
+  "GSGDQFEEHCPF5UVNFOXZIXMV": {
+    "item_name": "Captain Morgans Spiced",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "U4G5FSRFK7JQY2GE3XLHG6VS"
+  },
+  "O3LXKYW5Q6HNN5E3F6YK5NXW": {
+    "item_name": "Vodka",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "Y3FOUPYTLME6WY5ASSZE6NVR"
+  },
+  "PYY3ON4YGKUSS3WTLP7IAKFG": {
+    "item_name": "Rum",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "UNYIE3GD3ZGUGOK5JPTVOCJI"
+  },
+  "MBOTE3LNCERJKON4UP2L2FSY": {
+    "item_name": "Gin",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "FKHFNFBKVQHTEVDQ7E4CJNN3"
+  },
+  "WGE64QNKBH66G74PLHMQYDFB": {
+    "item_name": "Bourbon",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "NVKQJKERAKNAS3CP3D3PG4Z3"
+  },
+  "C436J2SZ2SJLRZBEJ3VCVKG2": {
+    "item_name": "Tequila",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "XDLJHQZNISDTJHFNJEXNS45H"
+  },
+  "FORUDPWWPLFBPO2AFD4BBYQR": {
+    "item_name": "Rye",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "LTRSV64QQ47W7MRIV3XAGUQK"
+  },
+  "DBKAQBKEFWJSYDJFTBWNLYBR": {
+    "item_name": "Scotch",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "WQVJCGGSWUTIW2KKHAXNVXG2"
+  },
+  "54XQQ6T2CBJEV3SIJB6VLUVW": {
+    "item_name": "Soft Drink",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "TEKDQMS3BN2RHGIZMHFC2JBN"
+  },
+  "425ZRDJC37MMZFGD6LU6IG5M": {
+    "item_name": "N/A Mai Tai",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "4VG6RNJ427ZK5CCG35SEP5OV"
+  },
+  "VXVYMPRBIOKXCJVCKA7VAK45": {
+    "item_name": "Mineral H20",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "OWQNXUHEVWCMRKNCECEXSBWI"
+  },
+  "5TM53WM2CR6MAGS2DNMUPSNF": {
+    "item_name": "Bottled H20",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "5SFJ44KQHXNWWSQ6YMMNTHAW"
+  },
+  "2XDCQ744YHFPSN3SWOZZUIRE": {
+    "item_name": "Okami Kasu",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "TUH5VVJHBMFVAKFROFYJZ7CS"
+  },
+  "4D34FJ3KDVXOL6L2NPF7QIJN": {
+    "item_name": "Pegasus Ale",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "PQDOWGILDM2ZY2L6W7PGXIPO"
+  },
+  "6QM5YTVEHMA63UFHCVARPKU2": {
+    "item_name": "Rose Glass",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "N64OAI473VQ4KRWEYAW4MS6V"
+  },
+  "C4AKWFQCX7QQTD76QFBUU3K6": {
+    "item_name": "Red Glass",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "MWYWYVLHOMDRDM73J2TEBHDQ"
+  },
+  "BG3AXE6YWHYRIM46BOCSWMCD": {
+    "item_name": "White Glass",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "MBC3BIZT2OQ3VWJNR5UZKJGK"
+  },
+  "S7LHZOOSJIIRUELJ3ENHJHVN": {
+    "item_name": "AJupiter",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "TGURNSURIIREVW76QBFYLT5O"
+  },
+  "YF75QHATXMACJUNG6XUC2LPC": {
+    "item_name": "S.Pleasures",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "TTJO4UQ37Z7QRKCUHAKI3FC5"
+  },
+  "NAQ7KEPQOQGIR5MRJQ3SLBII": {
+    "item_name": "Tuna Tartare",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "GQTDGCAUQ6PCBXRINSW7CD6M"
+  },
+  "IFICCKFZWNJE4I3VYUKEAUR5": {
+    "item_name": "Pork Belly",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "XCFKL32QUIIWXPE6MF52DHL7"
+  },
+  "ABAQ7WWOYJESX5GXHCISZ2KI": {
+    "item_name": "Beef Cheek",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "EDRF66KWBB7FF2E3BTBOVVVH"
+  },
+  "FXJFSNGPQQEZRPWRUWMIWDGZ": {
+    "item_name": "Endive",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "Q7PHDJITDUDY5DUFOCMJOOAY"
+  },
+  "ASZFRVP4GK5F43ADAXFVJB3S": {
+    "item_name": "Fried Tofu",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "IYFQGZ36SEZZZ4EMNGN3CCOE"
+  },
+  "WBLJ2NHMM6ID7TB3H2LJ7UQU": {
+    "item_name": "Beignets",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "JZ4N6DYUQ6N6AAFSQYGMH6SW"
+  },
+  "E3PGJSHKG6TVDQOIAQUJKOIS": {
+    "item_name": "Arancini",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "GWQ4AYHRYS5ISG2FHGHAHXOQ"
+  },
+  "RNY2PNBN5FYUCH6WFXB3XL2Q": {
+    "item_name": "Gourgeres",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "QJWTPEIAMZSYCAXGK3TIQBO5"
+  },
+  "THOHMISASLFGDNGLJ2MGKB5Q": {
+    "item_name": "Gyoza",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "FOC4P42LGYX6VOTFSATX65M4"
+  },
+  "MST76STI7W2D5M57YSA5P6V2": {
+    "item_name": "Meatballs",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "S3SXEWUNJ7ZKOGI456UVHSWY"
+  },
+  "EEH4V4RV5Z4HMVQASBM6EUKT": {
+    "item_name": "Beef Tartare",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "FZL5SDP3W6DAQZ4AY4LEF3BQ"
+  },
+  "ROBS73SQS33NSNXB4DQRNGFQ": {
+    "item_name": "Goat Cheese",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "LQ6BYVP4AX2O4WSUVGUJ7VQC"
+  },
+  "YRRYSFK6LZDLMFTR6TE3ONZW": {
+    "item_name": "Pistach.Pate",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "HQYPZJBZ6OSS3XYNDTTHJ3WY"
+  },
+  "UO4YE6A5NZCAJCMPXZ6KOVIW": {
+    "item_name": "Avocado Toast",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "ERQJTVRC4SHC3OHXF7MJMK7T"
+  },
+  "OJPPGFKXVWMXNBMEP6WJSWV5": {
+    "item_name": "Burrata",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "O4HK7DQCVJ7OU6ZB3N2DVCGZ"
+  },
+  "7N34WWGXS2CYKR75KZGCJ5V4": {
+    "item_name": "Liver Mousse",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "HFBGZ6A5TAV2Q7IYMP6RL7XR"
+  },
+  "ROLWLWGJGR7SG66YGUKFEMXS": {
+    "item_name": "Dck.Pastilla",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "6AEJNCHIVLFIAJOUASU52KNA"
+  },
+  "UFYZA2UY6SZJJWOVFOU46WKL": {
+    "item_name": "Prawn Salad",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "SKSLWWMFL6GHJZ6MF75N34J5"
+  },
+  "BRUQPMCM6H2UCCB6UT5KFYWA": {
+    "item_name": "Krn.Fr.Chick",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "2HUBGJU2GXIZRBAUEHZGK4IC"
+  },
+  "FGPPZK4FYIBQARQPPCUQZO6A": {
+    "item_name": "Clive Sliders",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "4M557EJ46IZ3XXVL4GEFLV4L"
+  },
+  "F37JIOCJNPFFPLUPE3I7NHAD": {
+    "item_name": "H&CH Toasts",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "OO4P6SPX4H2JWHFMOBLAAHMK"
+  },
+  "UCDTSEVOEQQ3R4X263GKTK3W": {
+    "item_name": "MPL. Pork Bao",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "YQPT4W2PQPX7W6GOX32ZDJPS"
+  },
+  "QYI6CZCNMGLPF2QD6DHL7WEO": {
+    "item_name": "Tonkatsu Sand",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "4JXJN5JYFZVM2Y27MUK5IXNC"
+  },
+  "2E2T5MTSIICII24VOZDZX7YE": {
+    "item_name": "Slmn.Tostada",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "N2QTSUPIDVI2K34K44RZDGDQ"
+  },
+  "ZDF2P6ZW7DWUIDXNIN4TU3FU": {
+    "item_name": "Brisket Tacos",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "TJBGGTVC6PJMO7SG6AC6IOTG"
+  },
+  "QKAR5J2NZONZ7ZNNCMVAFR3F": {
+    "item_name": "Fish Tacos",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "H53AO2A7TIDJTTT5F2FO46JW"
+  },
+  "7CVMRANBMQ43KRHRFZPZC2TO": {
+    "item_name": "Charcuterie",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "HQPKAVT4SEBNP4N4IMCUWFN5"
+  },
+  "5SYAENI73IXNSSJTMSFEOV3P": {
+    "item_name": "Cheese Board",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "QC4DBP7QRBAFEIWYSQEW2MVJ"
+  },
+  "OQVTHVITPBNONVDVAJIWKPV6": {
+    "item_name": "Veggie Board",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "KPZA7BLR2O35YVE4WRJSRCBI"
+  },
+  "ZWR7ILSQUH3YI6RQABSANGFK": {
+    "item_name": "Beef Carving",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "V2KEXLOPWKVLWSEH7QKVIQXE"
+  },
+  "ODLTNDEPB3HMCFXMHAEYXIQG": {
+    "item_name": "Oyster Shucking",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "77CJT4UQYMDVFZPUDAHFYJBG"
+  },
+  "Z6RFKNER3RDHRIVSETYN6ZHI": {
+    "item_name": "Pasta STN",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "3RQYTRMMNHFJSE2XNRUDAQL5"
+  },
+  "FT66Y5TVFOGJFI3E7D5JNMNA": {
+    "item_name": "Taco Station",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "SYY65P2BJVE4KVEGG6WSXESP"
+  },
+  "I7TD76FDRRNQ6DW72GPXDUR5": {
+    "item_name": "DZ Pizza TR",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "LHJEPWMWOVH3COJYEQSUXP6F"
+  },
+  "IUP4MW3NEHYMJIYNOJ6N64ZR": {
+    "item_name": "Choco Cone",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "J6TX325DPLS3VRN7DXXBLQ64"
+  },
+  "FIG26WHC5E4FF5IQZYY7HMKB": {
+    "item_name": "Lemon Tart",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "LZNSACMZMRSOF43TKBQ5R54G"
+  },
+  "N3U5DE22MBANCSUBUU56XTKD": {
+    "item_name": "Pistach Mcrn",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "NXRHBAWPJUZSG252WVKDNFPR"
+  },
+  "L7U6A6W2D75QPISH4ZBL7W66": {
+    "item_name": "Millefeuille",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "SBUSDZQHELXM2YENRRRI2PSC"
+  },
+  "S5MD6L72J6W7USKRIUR5D4TC": {
+    "item_name": "Sushi Roll",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "KVATF2H47VDZ62M2RQEYMBTA"
+  },
+  "UB2ZPIOGRLYKWU6WU42BFIKM": {
+    "item_name": "SHRP&LB Roll",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "KXYMGY4SUYFNOTWN22NMAZKT"
+  },
+  "IXKGOOR3XXDTEHVKEM66CGKQ": {
+    "item_name": "Strawberry Spritz",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "QTSUFW2TLQOX52YT2WK4KDLS"
+  },
+  "PX2XKWPSJ62CMH2INDVS6IDU": {
+    "item_name": "Labour Charge",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "RTGAEUQRSYKNB7WIG4KYQKCS"
+  },
+  "RPMZBOPNG7H6MENNIAW4H4LU": {
+    "item_name": "Transportation",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "YQDMENVLNKDXHLM4TYCY2PQF"
+  },
+  "LVQFRXKNAW4VEMSBSRXCS5ZT": {
+    "item_name": "Admin Fee",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "PTGJEAJFNRBECWUSSPK36ST3"
+  },
+  "ZX4HLUCTNWNP4GBCGLOIPRGN": {
+    "item_name": "Rental Fee",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "Y6PQNEIGQQTR7Q3WNBOFXTMM"
+  },
+  "R5XS2XUF7NGWMYHS77ZJWSG7": {
+    "item_name": "Decor Fee",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "YKNBOYP4QP6MT75HDKVYWDE4"
+  },
+  "KR2H4DHH5HUJSTJUXN6OVXI6": {
+    "item_name": "A/V Fee",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "ZFML3SXCTMOMBGTSJ5YYHJEW"
+  },
+  "HPBRTANPDNJBV7FU6NB5Z372": {
+    "item_name": "Cat 1",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "7AVUZDHIXT43L7XHXTSALMFK"
+  },
+  "JH3U4YG5ZR5WLFK4PTYZ5WU2": {
+    "item_name": "Cat 2",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "6K4FXG26JGWHGPMORZQJIF5B"
+  },
+  "ITHGYIFFGYRU7E7BRCMXWZ5E": {
+    "item_name": "Cat 3",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "HA7PS6X5UNXLQDPI34PIS4YA"
+  },
+  "H4RODEB64SOBDSKTJUPSEFUS": {
+    "item_name": "Small can",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "5OLU6AND5PU4GYT6TJ6B7NUG"
+  },
+  "MO7C6FAPWEW3YUBR23S2EGEP": {
+    "item_name": "Pizza slice",
+    "location_ids": [
+      "L0KWAEWEABGZ7"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "RWBX3BKFBG5I7ASVJ4P2RHXK"
+  },
+  "TIMHQUTSCO44SZUIXXSLHSOR": {
+    "item_name": "Concert Ticket $10",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "OGJHA5NHUKJXX4EWCG3NT5OD"
+  },
+  "T2APQNVPE4NLBYX3VWR3BU3P": {
+    "item_name": "Concert Ticket $15",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "5ISP4ZVFTCDAU36NCJ26SBLC"
+  },
+  "TPLPPOSBWHTXK3YS6LUSTIFV": {
+    "item_name": "Concert Ticket $20",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "ERQC3XJWKTMFZ3INAV6MINIF"
+  },
+  "ENQVFNO3PUY4ZD6BLPAXBE3W": {
+    "item_name": "Concert Ticket $25",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "5DKACCOFC26PHQ2Z5V7USJBR"
+  },
+  "TPMGYJPLTR76H45BMGTAVG35": {
+    "item_name": "Concert Ticket $30",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "FSK7CEMJKUQEBMDSGFAXVU2T"
+  },
+  "QOY3I2GKSGVGDKKUBOOXWKNW": {
+    "item_name": "Concert Ticket $35",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "VC4BSA7Y4L3P3GP4UD324ZVY"
+  },
+  "WIAMKAUYEGQTO3PVGRBZSXON": {
+    "item_name": "Concert Ticket $40",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "M4J3ZYGGGI4LUES55VX2SBCZ"
+  },
+  "7SFLTIVHNXO4NNS5W2LBRBZU": {
+    "item_name": "Concert Ticket $45",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "ZW27JKKIOGQKZSATL4BF2IBR"
+  },
+  "QCCSQT4UOPVS2YACPPHC3ZEW": {
+    "item_name": "Concert Ticket $50",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "3TCK4D2FPV3S27IJP7LO7QHM"
+  },
+  "7HTR5C5H7SPACYRMR65RG2HV": {
+    "item_name": "Concert Ticket $55",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "LLT7IBNKBEUZB5NCAFLZOQYY"
+  },
+  "24TSK2CF4NNGEEDNA64ZZE26": {
+    "item_name": "Concert Ticket $60",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "BBHA66P2ET67R7JWY6NBJL5O"
+  },
+  "H3VOGX3G3FL7TBWSE5QTCAUE": {
+    "item_name": "Concert Ticket $65",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "XU5LFJBENJKNFBGZ3HUPLP3K"
+  },
+  "LJ6JV25T2G77GG3EWM6BVHRP": {
+    "item_name": "Concert Ticket $70",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "6CK3QO2RSDK7IDB4XOHLAPAW"
+  },
+  "KDRACQECGNC3N522M5W7TFDU": {
+    "item_name": "Concert Ticket $75",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "PNQYYSD2XFQKB4KRT52EH4TG"
+  },
+  "SXV2WKH6XF6C57B2Z5O2MFI3": {
+    "item_name": "Concert Ticket $80",
+    "location_ids": [
+      "L1274T572VMTT",
+      "L4715DP52CZ7R",
+      "L5YT3C1WGKMAC",
+      "L6MXP02G3PSM2",
+      "L9DR2FNQ0P1XV",
+      "LAR09X2R32FD8",
+      "LGW6VZX58J1TM",
+      "LH1KRE9995RAZ",
+      "LQCR8JHSV4T6Q",
+      "LV0P9FFNB16MD",
+      "LVY2EGTE9WJEF",
+      "LWQ39Z0MHR3CE"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "BJ5E72QXGBDTV343744WR5XS"
+  },
+  "POHZPQJFHLLABTW3FINKGP3J": {
+    "item_name": "Can Cocktail",
+    "location_ids": [
+      "L19Y65Y519C0Y",
+      "L293PJM41KPGG",
+      "L4F4S5K5XZMGA",
+      "L536E9GAWKGQ1",
+      "L5BF321ERVF0A",
+      "L6TPXBT7YFQPG",
+      "L6YR34NA2G9FW",
+      "L7MMHQX4ZVWPH",
+      "L7XZ7D3M4FQ6S",
+      "LA0ZKACZ4QBS3",
+      "LAACJHC2M4Z86",
+      "LASTB29XNC1HN",
+      "LAT7NS62SQ310",
+      "LCJWBJCRERTQB",
+      "LDBJTSHR02JMX",
+      "LE5TQA7K9NRK3",
+      "LEE8EVN5XC9E5",
+      "LEJGXXCTR2H4K",
+      "LF6RD8JSSRA73",
+      "LFGCJX38NNHQX",
+      "LGSB45G5FN3JH",
+      "LHHXT6AWEYSCJ",
+      "LHPPM45V683B2",
+      "LJAHC088R59YM",
+      "LJPWJTCTQXFDA",
+      "LKABG2ZNRRH6D",
+      "LKSX94G1S3DRH",
+      "LMB6G6PJF5C03",
+      "LMRZSWAVQ242S",
+      "LNH8KDSJVJDNJ",
+      "LPAHK469SBA7J",
+      "LPCDMXB707N1H",
+      "LPVAQB3YMDSW8",
+      "LR17VYM2N0SME",
+      "LW93JWX3WBM5Q",
+      "LZ0WGDBCNS52A"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "PFMI3TNYFEYDSL2NLPM2KFLN"
+  },
+  "TDL3XVUKUAHH6SFRPLJGGVST": {
+    "item_name": "Space Kitty IPA (6)",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "3PCAXP6YY26SD45WVWAHU37C"
+  },
+  "AIMHXVYWWGCXPTE2LG4DMP2N": {
+    "item_name": "Simply Spiked Peach (12)",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "5MYXAP35QBOJYOLWYAZJ37T6"
+  },
+  "SV2QHFGK7CQQ5OIBHFVBCT2O": {
+    "item_name": "Paloma Mixed (6)",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "PWYV3XZ72BD5J7O5HSRG6CRX"
+  },
+  "7562TQFCKL3BECNINM4JL5S3": {
+    "item_name": "Ranch Water (6)",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "63EIZHOL47ZLKCWFH2HZ4FV7"
+  },
+  "ZVETGEQI6X4U5W54MEL344VN": {
+    "item_name": "Southern Comfort 750ml",
+    "location_ids": [
+      "LEE8EVN5XC9E5"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "AK3FXQAHINLXZQFCEFN4I7L5"
+  },
+  "UONQRAAMMLFR5DEUE5EC3GSX": {
+    "item_name": "Disaronno 750ml",
+    "location_ids": [
+      "L362869NT855W",
+      "L7MMHQX4ZVWPH"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "LAXLJWA2YQ5R5O4Q5HVORJIW"
+  },
+  "3VIVGI7JCIH66C5YREFOI4AP": {
+    "item_name": "Rye - Forty Creek 1.14L",
+    "location_ids": [
+      "L6HFGTPTDF2H8"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "VJL4UZVYPZ2MXLMT63CFHHKT"
+  },
+  "IBVQBBJZHHUR7NMWURYBD2NC": {
+    "item_name": "Patron Anejo 750ml",
+    "location_ids": [
+      "LW93JWX3WBM5Q"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "JIIIUXURRYJ4YYAT4WYKCUUN"
+  },
+  "2Z7YLFIRC57SMOBUWFF26HOY": {
+    "item_name": "Patron Blanco 750ml",
+    "location_ids": [
+      "L19Y65Y519C0Y",
+      "L293PJM41KPGG",
+      "L4F4S5K5XZMGA",
+      "L536E9GAWKGQ1",
+      "L5BF321ERVF0A",
+      "L6TPXBT7YFQPG",
+      "L6YR34NA2G9FW",
+      "L7MMHQX4ZVWPH",
+      "L7XZ7D3M4FQ6S",
+      "LA0ZKACZ4QBS3",
+      "LAACJHC2M4Z86",
+      "LASTB29XNC1HN",
+      "LCJWBJCRERTQB",
+      "LDBJTSHR02JMX",
+      "LE5TQA7K9NRK3",
+      "LEE8EVN5XC9E5",
+      "LEJGXXCTR2H4K",
+      "LF6RD8JSSRA73",
+      "LFGCJX38NNHQX",
+      "LGSB45G5FN3JH",
+      "LHHXT6AWEYSCJ",
+      "LHPPM45V683B2",
+      "LJAHC088R59YM",
+      "LJPWJTCTQXFDA",
+      "LKSX94G1S3DRH",
+      "LMB6G6PJF5C03",
+      "LMRZSWAVQ242S",
+      "LNH8KDSJVJDNJ",
+      "LPAHK469SBA7J",
+      "LPCDMXB707N1H",
+      "LPVAQB3YMDSW8",
+      "LR17VYM2N0SME",
+      "LW93JWX3WBM5Q",
+      "LZ0WGDBCNS52A"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "TLXOHYOR23BGUWOF542C2DZ6"
+  },
+  "AJNZY6LYZKVQ6OXEUC5AHR35": {
+    "item_name": "Patron Reposado 750ml",
+    "location_ids": [
+      "LW93JWX3WBM5Q"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "DARP2BK7QIMC7MAHU2OPHGJX"
+  },
+  "2K6RNSAZMTZWI3D5HQYEZ4V6": {
+    "item_name": "Grey Goose 750ml",
+    "location_ids": [
+      "LW93JWX3WBM5Q"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "R6FPAS7TBZ4VLN5X4U6FS4IO"
+  },
+  "7XJM3XU7CYQ2TOXR7MVPYCHL": {
+    "item_name": "Bombay Gin 750ml",
+    "location_ids": [
+      "LW93JWX3WBM5Q"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "XNP5TN3JKYZRF7WS76NPBLOO"
+  },
+  "SIDOEDN4DFUYXXDQCYKIG6A2": {
+    "item_name": "Forty Creek - Honey Spike 750ml",
+    "location_ids": [
+      "L362869NT855W"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "KYO3GFJHPOIKBAYGJ6WUD2BH"
+  },
+  "Y5QHQOVZM436JDPK6NUKTRGF": {
+    "item_name": "Cocktail 1oz",
+    "location_ids": [
+      "LA0ZKACZ4QBS3"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "JLY4KROJPTTFNODK7CRV2VA7"
+  },
+  "WVLRBLN5WDIZNW5RGQQV3VFT": {
+    "item_name": "Pulled Pork Sando",
+    "location_ids": [
+      "L6HFGTPTDF2H8",
+      "LKKNNRRK8V2S8",
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "3XK6EZCMBUJSRIC2MIABVH5U"
+  },
+  "M3BX2O744NZLCOVVIPV3RU7N": {
+    "item_name": "Vegan Burger",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "GEXWKBYCDVZHIQFA6TSRPT6R"
+  },
+  "3AXSYVQFFJCXXJLWIAKL3XHQ": {
+    "item_name": "Potato Salad",
+    "location_ids": [
+      "L6HFGTPTDF2H8",
+      "LKKNNRRK8V2S8",
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "VYCA4YZ7F3SS3UATPEV4ZEO2"
+  },
+  "THTDTUOMYFXNVX3ZZDPP6232": {
+    "item_name": "Caesar Salad",
+    "location_ids": [
+      "L6HFGTPTDF2H8",
+      "LKKNNRRK8V2S8",
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "TKZ74MDBBVVEC562PQ4IGOFH"
+  },
+  "G6T66WSXQMLZHIHJJRWXQKXK": {
+    "item_name": "Tomato Salad",
+    "location_ids": [
+      "L6HFGTPTDF2H8",
+      "LKKNNRRK8V2S8",
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "RJ4YULLK4WD6F23BQKU6G63P"
+  },
+  "V5SNCMOND2HHG3PR4IKWWLAM": {
+    "item_name": "Fries",
+    "location_ids": [
+      "L6HFGTPTDF2H8",
+      "LKKNNRRK8V2S8",
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "NYZGZTI4VY47MDNFYO6LAGJ7"
+  },
+  "JGBTK3YQCKU4HGP57436MRD3": {
+    "item_name": "Tots",
+    "location_ids": [
+      "L6HFGTPTDF2H8",
+      "LKKNNRRK8V2S8",
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "LXANIWPAZNQKKLPC7FY3BNII"
+  },
+  "CHGW6LB2G5OEECCQY5VVRTSA": {
+    "item_name": "Event Non-Alc Ticket",
+    "location_ids": [
+      "LV8VZ4XEYXQ7N"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "FLWLPT57FWYHWGR65NMHNQB3"
+  },
+  "66CM3IAVG5ES4CJPARE4HDPY": {
+    "item_name": "Slush Cocktail",
+    "location_ids": [
+      "L7MMHQX4ZVWPH"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "ZSOJCQFA2EBAOPB5LRIQETXY"
+  },
+  "WC6G6XZNAPQIAFZ26IR2TQFM": {
+    "item_name": "Ole Mocktail (12)",
+    "location_ids": [
+      "L19Y65Y519C0Y",
+      "L293PJM41KPGG",
+      "L4F4S5K5XZMGA",
+      "L536E9GAWKGQ1",
+      "L5BF321ERVF0A",
+      "L6TPXBT7YFQPG",
+      "L6YR34NA2G9FW",
+      "L7MMHQX4ZVWPH",
+      "L7XZ7D3M4FQ6S",
+      "LA0ZKACZ4QBS3",
+      "LAACJHC2M4Z86",
+      "LASTB29XNC1HN",
+      "LCJWBJCRERTQB",
+      "LDBJTSHR02JMX",
+      "LE5TQA7K9NRK3",
+      "LEE8EVN5XC9E5",
+      "LEJGXXCTR2H4K",
+      "LF6RD8JSSRA73",
+      "LFGCJX38NNHQX",
+      "LGSB45G5FN3JH",
+      "LHHXT6AWEYSCJ",
+      "LHPPM45V683B2",
+      "LJAHC088R59YM",
+      "LJPWJTCTQXFDA",
+      "LKSX94G1S3DRH",
+      "LMB6G6PJF5C03",
+      "LMRZSWAVQ242S",
+      "LNH8KDSJVJDNJ",
+      "LPAHK469SBA7J",
+      "LPCDMXB707N1H",
+      "LPVAQB3YMDSW8",
+      "LR17VYM2N0SME",
+      "LW93JWX3WBM5Q",
+      "LZ0WGDBCNS52A"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "OGQ46MHZ6B4NWDBGEPZEYMY6"
+  },
+  "EVLUCRCKMERL3AUJFIYTNFG4": {
+    "item_name": "6L Slurpee",
+    "location_ids": [
+      "L7MMHQX4ZVWPH"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "K4YVTRTYMJXBWPBPRPYDBHG2"
+  },
+  "UP723VSGX3JR2E4X6GSDNCZ6": {
+    "item_name": "Zero Paybacks",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "YPC4BYVQXUOPNPTRBUO5AKNJ"
+  },
+  "5VBKLET6DT6PHRQ7BUJPZAEU": {
+    "item_name": "Shaved BBQ Beef",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "YUT4GV7T4LNPN4OWLSHW6I7C"
+  },
+  "RNXCK7BEPEM5HZK7MPYYDD5J": {
+    "item_name": "Walking Taco",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "CUMVAHJM7IWQ5IHPEJAVZACD"
+  },
+  "SJLFNOEPMAUUKV6PPFUBRRQ7": {
+    "item_name": "Grilled Cheesy Bread",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "RJVMHFNAZPX4LAG3XSIP7FR6"
+  },
+  "NPNI5OTAPLLR3MHHVGBBPYQS": {
+    "item_name": "Poutine",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "744H5OSLATLZ6IEV4JCGXPR5"
+  },
+  "W7QDFSSTNPKL7QBHJ2TIBRYT": {
+    "item_name": "Add Beef Brisket",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "CT3FIIVP6HD2G4SBEK2LFAZB"
+  },
+  "7DMMG6L3AKR6H4FE7GWLGNE6": {
+    "item_name": "Kale Caesar Salad",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "LA2JE72IZEEBYDVTEKJYZGCE"
+  },
+  "KNUWEVMDJ4ODBM746BKUIC3V": {
+    "item_name": "Hummus & Veggies",
+    "location_ids": [
+      "LYQGYV9DJ8KE4"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "IFJOF77WTDP2UAAVPUTR6KYM"
+  },
+  "XDDMOGJNRW7IPQJMAZXZTRLW": {
+    "item_name": "Aperol (3)",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "E5SUHV6CVZQQDL557FSUTCF5"
+  },
+  "JVTBUITA5DMO77T72XAPCXGQ": {
+    "item_name": "Red Bull SF (24)",
+    "location_ids": [
+      "LEE8EVN5XC9E5"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "A7CEF63PU67E3Q2UEOPBF5EW"
+  },
+  "ZDW7SP5RDBRK7J4FVEI44BIO": {
+    "item_name": "Red Bull Watermelon (8)",
+    "location_ids": [
+      "LEE8EVN5XC9E5"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "X6RBP4WTRK62N3LB4EIBZS7R"
+  },
+  "IHADYWRBAFVXEOURHSIVBKQB": {
+    "item_name": "Red Bull (24)",
+    "location_ids": [
+      "LEE8EVN5XC9E5"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "77WKYN7NHWKB5D4HMIFHA3RW"
+  },
+  "E2S6AQ6KAFHBPM6EFRKOABGT": {
+    "item_name": "Aperol Spritz (4)",
+    "location_ids": [
+      "L6HFGTPTDF2H8"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "2MWCOB2AE2P43JAHNCYZM7KU"
+  },
+  "7NTGXDX6SBF3QDI4K3NQKA2M": {
+    "item_name": "Ace of Spades 750ml",
+    "location_ids": [
+      "LHHXT6AWEYSCJ"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "PEXSIZJBISHI2GWRYVLQVWJO"
+  },
+  "VI5APEDFCDWMH7VIMRXBZWS6": {
+    "item_name": "Ace of Spades 750ml",
+    "location_ids": [
+      "LHHXT6AWEYSCJ"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "JPEHUMQ425A5DBYKB6G6XMKI"
+  },
+  "JFNB7Q4WRN7Z3QZB33OIAXUK": {
+    "item_name": "Frac Juice",
+    "location_ids": [
+      "LF6RD8JSSRA73"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "Q4VBDH4ZLUF7KKMJXRBMPAUF"
+  },
+  "2UL2RYZHDMF6XZ2M4GSVRBCG": {
+    "item_name": "Bailey 750ml",
+    "location_ids": [],
+    "track_inventory": false,
+    "present_at_all_locations": true,
+    "variation_id": "DCEHDI344LBPWMASIF3OE4LP"
+  },
+  "CCJRMJZ2YM27IIX6S4JGOYAZ": {
+    "item_name": "Patron Alto 750ml",
+    "location_ids": [
+      "LW93JWX3WBM5Q"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "B5QSLFNQ3CAJI6RYIHKL42FD"
+  },
+  "GWTNFXWQY7MWAS3R3PB2TIYO": {
+    "item_name": "Patron Alto",
+    "location_ids": [
+      "LW93JWX3WBM5Q"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "GDAR3J6RAFIDNVBJQIGUATTU"
+  },
+  "LWHRXU4IPXZEUOUG5KYPT5QE": {
+    "item_name": "Patron Cielo 750ml (1)",
+    "location_ids": [
+      "LW93JWX3WBM5Q"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "H3RZZZOV3MKMUPYVQTFQK35D"
+  },
+  "5FSNATCJ4XLZ7MFYBLQHK4YV": {
+    "item_name": "Patron Cielo",
+    "location_ids": [
+      "LW93JWX3WBM5Q"
+    ],
+    "track_inventory": false,
+    "present_at_all_locations": false,
+    "variation_id": "Y42LRYDQGVNPYDIZ2RROQX7P"
+  }
+}
